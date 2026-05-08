@@ -11,10 +11,10 @@
 
 ## UI/UX (화면 캡처본을 복사 붙여 넣기, url 주소 나오도록)
 - 게시글 리스트 페이지
-  <img width="2088" height="495" alt="게시글 목록" src="https://github.com/user-attachments/assets/da606beb-6d26-4ff7-b4b5-6a1d8bad7fec" />
+<img width="2088" height="495" alt="게시글 목록" src="https://github.com/user-attachments/assets/da606beb-6d26-4ff7-b4b5-6a1d8bad7fec" />
 
 - 게시글 등록 폼 페이지
-  <img width="1977" height="700" alt="게시글 등록" src="https://github.com/user-attachments/assets/5fee031d-6c86-4596-a869-fd31017f53de" />
+<img width="1977" height="700" alt="게시글 등록" src="https://github.com/user-attachments/assets/5fee031d-6c86-4596-a869-fd31017f53de" />
 
 - 게시글 상세 페이지
 <img width="2084" height="438" alt="게시글 상세" src="https://github.com/user-attachments/assets/86128ee0-84d5-44d7-964b-0518372f7051" />
