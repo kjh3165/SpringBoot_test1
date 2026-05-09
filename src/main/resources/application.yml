@@ -1,6 +1,6 @@
 spring:
   application:
-    name: back
+    name: SpringBoot_test1
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
